@@ -1,0 +1,5 @@
+train: C:/hope/deep learning/tooth xray detection/tooth_dataset/images/train
+test: C:/hope/deep learning/tooth xray detection/tooth_dataset/images/test
+
+nc: 4
+names: ['tooth caries', 'healthy tooth', 'impaction', 'tooth fracture']
